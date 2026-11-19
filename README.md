@@ -11,6 +11,7 @@ from the first symptom to the prevention measures.
 | --- | ------- | ------ | ---- |
 | 001 | [New server cannot download anything](postmortems/001_new_server_cannot_download/index.md) | network, nat, linux | 2026-11-19 |
 | 002 | [New subdomain unreachable](postmortems/002_new_subdomain_unreachable/index.md) | dns | 2026-11-19 |
+| 003 | [Certificate warning on the www address](postmortems/003_www_certificate_warning/index.md) | tls, dns | 2026-11-19 |
 
 ## Cross-cutting lessons
 

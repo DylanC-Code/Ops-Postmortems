@@ -9,7 +9,7 @@ from the first symptom to the prevention measures.
 
 | #   | Symptom | Layers | Date |
 | --- | ------- | ------ | ---- |
-| 001 | [apt update fails](postmortems/001_apt_update_fails/index.md) | network, dns | 2026-11-18 |
+| 001 | [New server cannot download anything](postmortems/001_new_server_cannot_download/index.md) | network, nat, linux | 2026-11-19 |
 
 ## Cross-cutting lessons
 
